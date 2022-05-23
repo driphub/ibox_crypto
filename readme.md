@@ -1,4 +1,4 @@
-# Crypto加密解密脚本
+# 某Box Nft Web数据加密解密脚本
 
 ## 运行方式
 
@@ -19,3 +19,6 @@ cd dist/ && ./crypto d data encryptKey // 解密
 cd dist/ && ./crypto e '{test: 123}' //加密
 ```
 
+## Todo
+
+x_use_c 待解密 包含了浏览器指纹
